@@ -1,0 +1,23 @@
+Solve the following problem using explicit reasoning. Follow each step precisely before moving to the next
+
+**Problem:**  
+Alice, Bob, and Charlie are participating in a running race. The following conditions apply:  
+1. Alice finished ahead of Bob.  
+2. Bob finished ahead of Charlie.  
+3. Charlie says he was not last.
+
+
+**Steps:**  
+
+1. **State the conditions explicitly:**  
+   Write down the conditions in terms of the participants' rankings.
+
+2. **Determine the logical ranking order:**  
+   Use the conditions to deduce the complete order of the participants.
+
+3. **Interpret Charlie's statement:**  
+   - What does it mean for Charlie to "not be last"?  
+   - Compare the ranking order to Charlie's claim.
+
+4. **Conclude whether Charlie's statement is true or false:**  
+   - Is Charlie's claim consistent with the ranking order?  

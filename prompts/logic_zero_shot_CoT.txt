@@ -1,0 +1,10 @@
+**Problem:**  
+Alice, Bob, and Charlie are participating in a running race. The following conditions apply:  
+1. Alice finished ahead of Bob.  
+2. Bob finished ahead of Charlie.  
+3. Charlie says he was not last.
+
+**Question:**
+Is Charlie's statement true or false?
+
+Let's think step by step

@@ -1,0 +1,11 @@
+Q: Roger has 5 tennis balls. He buys 2 more cans of tennis balls. Each can has 3 tennis balls. How many tennis balls does he have now?
+
+A: The answer is 11.
+
+Q: The cafeteria had 23 apples. If they used 20 to make lunch and bought 6 more, how many apples do they have?
+
+A: The answer is 9.
+
+Q: Emma has 15 marbles. She finds 3 packs of marbles at a store, each containing 6 marbles. After buying them, she gives 12 marbles to her friends. Later, she finds 4 more marbles on the ground. How many marbles does Emma have now?
+
+Provide only the final Answer in the format "A: The answer is <int>."
