@@ -13,7 +13,7 @@ source venv/bin/activate
 get **API Key** to enable Usage of server based LLMs from **GroqCloud**
 1. [sign up](https://console.groq.com/login)
 2. [generate Key](https://console.groq.com/keys)
-3. insert Key [here](https://github.com/BeneHTWG/ChainOfThought/blob/main/src/main.py#L41)
+3. insert Key [here](https://github.com/BeneHTWG/ChainOfThoughtPublic/blob/main/src/main.py#L47)
 
 ## Running the Chatbot
 in the Terminal:
